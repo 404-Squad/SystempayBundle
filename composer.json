@@ -2,8 +2,7 @@
     "name": "404-squad/systempay-bundle",
     "description": "Payment gateway for Banque Populaire and Caisse d'épargne.",
     "require": {
-        "php": ">=7.4",
-        "symfony/config": "^5.4"
+        "php": ">=7.4"
     },
     "autoload": {
         "psr-0": {
